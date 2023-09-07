@@ -1,0 +1,21 @@
+html,body{
+    width: 100%;
+    height: 100%;
+    background-color: rgb(174, 221, 174);
+}
+
+.main{
+    border: 10px;
+    margin-top: 10vh;
+   margin-left: 30%;
+    height: fit-content;
+    width: fit-content;
+    
+}
+.inner-main{
+    background-color: aliceblue;
+    border-radius: 5px;
+}
+ul li{
+    list-style-type: none;
+}
